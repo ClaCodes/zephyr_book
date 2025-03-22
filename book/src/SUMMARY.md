@@ -1,51 +1,42 @@
-# Summary
+[Copyright](./copyright.md)
 
-- [Copyright](./copyright.md)
+- [Your First App]()
+    - [Prerequisite]()
+    - [Setup Workspace]()
+    - [Using Podman to Build]()
+    - [West]()
+    - [Hello World]()
+    - [Project Configuration]()
 
-# Your First App
+- [Basic systems]()
+    - [App Versioning]()
+    - [Binary descriptors]()
+    - [Logging]()
+    - [Shell]()
 
-- [Prerequisite]()
-- [Setup Workspace]()
-- [Using Podman to Build]()
-- [West]()
-- [Hello World]()
-- [Project Configuration]()
+- [Execution contexts]()
+    - [Timers]()
+    - [Task Watchdog]()
+    - [Semaphores, Fifos, Queues]()
+    - [Work Queues]()
+    - [Threads]()
 
-# Basic systems
+- [Networking]()
+    - [BSD Sockets]()
+    - [Socket Service]()
+    - [Available System Services]()
 
-- [App Versioning]()
-- [Binary descriptors]()
-- [Logging]()
-- [Shell]()
+- [Device Drivers]()
+    - [Driver Model]()
+    - [Dependency Injection via Device-tree]()
 
-# Execution contexts
+- [Advanced systems]()
+    - [State Machines]()
+    - [ZBus]()
+    - [Asynchronous Calls]()
 
-- [Timers]()
-- [Task Watchdog]()
-- [Semaphores, Fifos, Queues]()
-- [Work Queues]()
-- [Threads]()
-
-# Networking
-
-- [BSD Sockets]()
-- [Socket Service]()
-- [Available System Services]()
-
-# Device Drivers
-
-- [Driver Model]()
-- [Dependency Injection via Device-tree]()
-
-# Advanced systems
-
-- [State Machines]()
-- [ZBus]()
-- [Asynchronous Calls]()
-
-# Memory allocation
-
-- [Heaps]()
-- [Memory Slabs]()
+- [Memory allocation]()
+    - [Heaps]()
+    - [Memory Slabs]()
 
 
