@@ -1,0 +1,6 @@
+[book]
+authors = ["Cla Mattia Galliard"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Zephyr Tutorials"
